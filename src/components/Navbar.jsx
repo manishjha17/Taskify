@@ -1,4 +1,4 @@
-import logo from './assets/images/logo.png';
+import logo from '../assets/images/logo.png';
 function Navbar({ page, setPage }) {
   return (
     <nav className="bg-slate-900 text-white px-3 py-1 items-center flex justify-between">
